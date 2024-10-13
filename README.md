@@ -1,4 +1,4 @@
-## Hi there 👋
+## Whats Up? 👋
 
 - 🔭 I’m currently working on Beat Saber Maps/Modcharts
 - 🌱 I’m currently learning JSON
