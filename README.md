@@ -2,7 +2,7 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lunsaiance.repoName)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lunsaiance=anuraghazra&show_icons=true)
+![Lunsai's GitHub stats](https://github-readme-stats.vercel.app/api?lunsaiance=anuraghazra&show_icons=true)
 
 
 - 🔭 I’m currently working on Beat Saber Maps/Modcharts
