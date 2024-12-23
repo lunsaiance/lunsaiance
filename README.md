@@ -1,10 +1,10 @@
 ## Whats Up? 👋
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lunsaiance.repoName)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lunsaiance.repoName)
 
-[![Overall Stats](https://github-readme-stats.vercel.app/api?username=lunsaiance&count_private=false&show_icons=true&hide=contribs)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=lunsaiance&count_private=false&show_icons=true&hide=contribs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunsaiance&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunsaiance&layout=compact)
 
 
 - 🔭 I’m currently working on Beat Saber Maps/Modcharts
