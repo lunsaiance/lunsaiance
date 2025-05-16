@@ -6,9 +6,9 @@
 
 
 - 🔭 I’m currently working on Sound Design "Software"
-- 📫 How to reach me: Twitter or Discord: @omglunsai
+- 📫 How to reach me: Twitter or Discord: @eclipstral
 - ⚡ Fun fact: I MAKE ZAAG KICKS
-- 👽 All my socials: https://beacons.ai/lunsai
+- 👽 All my socials: https://beacons.ai/eclipstral
 
 <!--
 **lunsaiance/lunsaiance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
